@@ -4,6 +4,9 @@
 - title: Fully stacked JavaScript frameworks
 - date: 15/12/2012 18:54
 - comments: true
+## meta
+    - "nodejs, javascript"
+    - "programming opinions"
 ## tags
 	- frameworks
 	- libraries
