@@ -21,5 +21,3 @@ O que é certo é que Contra todos os velhos do Restelo, o Javascript transformo
 E mais pode-se dizer que a comunidade Javascript esta um passo á frente [Yeoman](http://yeoman.io/), [Brunch](http://brunch.io/), [Derby](http://derbyjs.com/), [RailwayJS](http://railwayjs.com/), [Yahoo Mojito](http://developer.yahoo.com/cocktails/mojito/), [Meteor](http://meteor.com/), [Geddy](http://geddyjs.org/), [Tower](http://towerjs.org/), [SpaceMagic](http://spacemagic.io/), [Firebase](https://www.firebase.com/), [SocketStream](http://www.socketstream.org/), são algumas das novas "fully stacked JavaScript frameworks", que estão a simplificar e a mudar todo paradigma do desenvolvimento web no lado do servidor.
 
 Outra conquista é que hoje em dia já existe um eco-sistema de Developers que já se sente confortavel com ["functional Javascript"](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/), prototypical OO, first-class functions e closures, isto já não é mais considerado problema muito pelo contrario a comunidade percebeu como os utilizar e utilizar bem, para resolver problemas antigos de novas maneiras.
-
-

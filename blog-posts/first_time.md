@@ -1,20 +1,19 @@
 ---
+- id: firt-time
+- date: 15/12/2012 18:54
 - author: BruNex
 - layout: post
 - title: First time
-- date: 15/12/2012 18:54
+- description: Simple example page
+- list-type: article-blog
 - comments: false
-## meta
-    - "first time"
-    - "public speaking"
-    - "personal stuff"
 ## tags
-	- pixelscamp
-	- talks
-	- publicspeaking
+  - pixelscamp
+  - talks
+  - publicspeaking
 ---
 
 
 The first time is always something that you remember forever. No I'm not speaking about sex, I only did my first technical public speaking :)
 
-My first technical talk was at #pixelscamp 
+My first technical talk was at #pixelscamp
