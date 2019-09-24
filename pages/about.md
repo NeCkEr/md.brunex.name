@@ -1,11 +1,13 @@
 ---
+- id: about-funny
 - author: BruNex
-- layout: page
-- uri: about
 - title: about
-- date: 02/01/2012 10:00
-- comments: false
 - description: about
+## tags
+  - work
+  - about
+  - funny
+  - fucked
 ---
 
 ###Is your website fucked up?

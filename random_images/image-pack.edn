@@ -1,0 +1,57 @@
+{:id :random_images
+ :default-width :massive
+ :images {;;
+          :algarve
+          {:original-path "random_images/algarve_bieatch.jpeg"
+           :url "/imgs/algarve_bieatch.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :bairro-alto
+          {:original-path "random_images/bairro_alto.jpeg"
+           :url "/imgs/bairro_alto.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :bairro-office
+          {:original-path "random_images/bairro_office.jpeg"
+           :url "/imgs/bairro_office.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :btt
+          {:original-path "random_images/btt.jpeg"
+           :url "/imgs/btt.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :bug
+          {:original-path "random_images/buga.jpeg"
+           :url "/imgs/buga.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :frajone
+          {:original-path "random_images/frajone.jpeg"
+           :url "/imgs/frajone.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :lisbon-night
+          {:original-path "random_images/lisbon_night.jpeg"
+           :url "/imgs/lisbon_night.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :mocas
+          {:original-path "random_images/mocas.jpeg"
+           :url "/imgs/mocas.jpg"
+           :alt ""
+           :title ""
+           :caption ""}
+          :sun-set
+          {:original-path "random_images/sun_set.jpeg"
+           :url "/imgs/sun_set.jpeg"
+           :alt ""
+           :title ""
+           :caption ""}}}

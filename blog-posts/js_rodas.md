@@ -1,16 +1,19 @@
 ---
+- id: blog-post_frameworks_js_rodas
+- type: article
 - author: BruNex
 - layout: post
 - title: Frameworks, Javascript e rodas
 - date: 14/12/2012 10:00
-- comments: true
 ## tags
-	- frameworks 
-	- libraries 
-	- javascript 
-	- html
-	- css
+  - frameworks
+  - libraries
+  - javascript
+  - html
+  - css
 ---
+
+# Frameworks, javascript e rodas
 
 A melhor framework para desenvolver em HTML, CSS e Javascript, pois, não sei qual é, e a meu ver vai ser impossível neste eco-sistema chegarmos a um consenso (por isso existe tanta oferta)
 

@@ -1,8 +1,24 @@
-My name is Bruno and I'm a native of the Algarve, a region in the south of Portugal, most of my friends call me 
+---
+- id: about
+- type: article
+- title: about brunex
+- description about brunex, work and lifestyle
+## tags
+  - work
+  - about
+  - interests
+  - skills
+  - cv
+  - serious
+---
+
+# About
+
+My name is Bruno and I'm a native of the Algarve, a region in the south of Portugal, most of my friends call me
 Brunex and this has been my “nickname” since I can remember, I’m also known as  NeCkEr in the online realm so is up to you to pick one.
 I like to code and don't see it as just a job but as a lifestyle.
 
-I am slightly obsessed with keeping up with the latest developments in the software world, especially in my own 
+I am slightly obsessed with keeping up with the latest developments in the software world, especially in my own
 area of interest/expertise.
 
 Interests:
@@ -12,7 +28,7 @@ Interests:
  *functional programming, reactive programing
  *clojure, clojurescript, javascript, node.js
  *noSQL, SQL
- *Docker, Kubernetes 
+ *Docker, Kubernetes
  *blockchain, crypto currencies
  *open-source
  *New technologies in general
@@ -30,7 +46,7 @@ Profissional Experience:
 
 # Style.com (http://style.com) - Fullstack developer since 09/2014 to today
 
-Started at style.com when the company was only 6 currently we are 120+ 
+Started at style.com when the company was only 6 currently we are 120+
 Got the opotunity to learn clojure/clojureScript and it became my main development stack
 
 # Signal-Noise (http://signal-noise.co.uk/) - Fullstack developer since 05/2014 to 08/2014
@@ -46,8 +62,8 @@ Working at Moonmill was a blast, I improved my technical knowledge, and my self-
 
 # Muzzley - Javascript Engineer since 11/2012 to 08/2013
 
-I had the pleasure to work at this startup; it was one of best experiences that I had as a programmer. Muzzley 
-(http://www.muzzley.com) is a cloud middleware that aims to enable real-time communication between machines 
+I had the pleasure to work at this startup; it was one of best experiences that I had as a programmer. Muzzley
+(http://www.muzzley.com) is a cloud middleware that aims to enable real-time communication between machines
 
 
 # Freelancer - Full Stack Developer since 01/2012 to 11/2012
@@ -60,7 +76,7 @@ This experience was a big jump on my career and I started to work as .Net consul
 
 # 2AS - .NET Developer, Lisbon, from 2008 to 2009
 
-This was my first big job, I was hired to be .net Lead Developer at  interpass (www.interpass.pt) website project. Interpass is one of the biggest travel agencies in portugal. My job was to  project and develop  the client-side 
+This was my first big job, I was hired to be .net Lead Developer at  interpass (www.interpass.pt) website project. Interpass is one of the biggest travel agencies in portugal. My job was to  project and develop  the client-side
 
 # Luso-roux - .NET Developer, Lisbon, from 2005 to 2008
 
@@ -76,7 +92,7 @@ I was studying and I needed to start earning my own money, so I  began to do som
 
 Social Skills:
  ** Team Spirit
- ** Good communication 
+ ** Good communication
  ** Ability to adapt to multicultural environments, gained through my experience of conferences and workshops
  ** loves challenges
 

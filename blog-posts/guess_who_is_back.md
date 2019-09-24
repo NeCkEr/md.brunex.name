@@ -1,16 +1,18 @@
 ---
+- id: blog-post_guess-who-is-back
 - author: BruNex
 - layout: post
 - title: recur blogging
 - date: 15/12/2012 18:54
 - comments: false
-## meta
-    - "new blog engine"
-    - "new wesite"
-    - "personal stuff"
 ## tags
-	- blog
+  - personal
+  - clojure
+  - blogging
+  - blog-engine
 ---
+
+# Back bloggin (or not)
 
 Hi, Long time no see :)
 

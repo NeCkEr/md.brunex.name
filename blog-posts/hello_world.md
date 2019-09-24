@@ -1,13 +1,15 @@
 ---
+- id: hello-world
 - author: BruNex
 - layout: post
 - title: Hello World
 - date: 13/12/2012 09:00
-- comments: true
 ## tags
-	- first
-	- helloWorld
+  - first
+  - helloWorld
 ---
+
+# Hello World
 
 Não podia começar este blog sem o tradicional hello world :-)
 

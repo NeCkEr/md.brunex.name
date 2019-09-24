@@ -1,11 +1,14 @@
 ---
-- author: BruNex
-- layout: page
-- uri: code
-- title: code
-- date: 02/01/2012 10:00
-- comments: false
-- description: about
+- id: code
+- type: article
+- title: code stuff
+- description code, programming biatch do you speak it?
+## tags
+  - work
+  - code
+  - interests
+  - skills
+  - portfolio
 ---
 
-###TODO:
+# Code

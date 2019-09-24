@@ -1,18 +1,19 @@
 ---
+- id: blog-post_javascript-nodejs
 - author: BruNex
 - layout: post
 - title: Fully stacked JavaScript frameworks
 - date: 15/12/2012 18:54
-- comments: true
-## meta
-    - "nodejs, javascript"
-    - "programming opinions"
+- lang: pt
 ## tags
-	- frameworks
-	- libraries
-	- javascript
-	- nodejs
+  - programming
+  - frameworks
+  - libraries
+  - javascript
+  - nodejs
 ---
+
+# javascript `nodejs`
 
 3 Anos se passaram desde a apresentação do Ryan Dahl sobre node.js, muito se tem falado e discutido o que é certo é que nestes 3 anos o node.js conseguiu um eco-sistema open-source fantastico, apesar de haver ainda muito céptico que continua de pé atras acerca da sua utilização a nivel enterprise.
 
